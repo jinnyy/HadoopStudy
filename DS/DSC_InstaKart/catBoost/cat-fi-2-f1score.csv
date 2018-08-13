@@ -1,0 +1,173 @@
+,feature,importance
+166,days_mean,39.71262140701505
+11,days_since_prior_order_4,8.703357359905773
+167,days_std,7.683577660728336
+29,reorder_rate,5.620128885758651
+168,organic_mean,5.2459648426101735
+8,days_since_prior_order_3,3.7607591110206706
+0,new_or_not,3.6531694771975176
+114,order_top4_aisle 83,2.582351525679899
+115,order_top4_aisle 84,2.4447681914073054
+84,order_top4_aisle 53,1.5369515296658116
+135,order_top4_aisle 104,0.9581829899088651
+10,order_4_hour_of_day,0.9190834725082441
+2,order_1_hour_of_day,0.8276856554619565
+5,days_since_prior_order_2,0.8021593207006877
+156,order_top4_aisle 125,0.7872933951379489
+122,order_top4_aisle 91,0.7683231939374497
+100,order_top4_aisle 69,0.7403624715986828
+68,order_top4_aisle 37,0.724130594698263
+28,dup_prod_num,0.6827984376781181
+14,order_3_organic_count,0.591861266331389
+48,order_top4_aisle 17,0.5623295351774474
+27,order_4_num_of_prod,0.5590047284701966
+7,order_3_hour_of_day,0.5287619063158812
+131,order_top4_aisle 100,0.5146842678356061
+110,order_top4_aisle 79,0.5007835204313019
+55,order_top4_aisle 24,0.454801179173848
+30,favorite_item,0.42919851521354646
+49,order_top4_aisle 18,0.4043214939167944
+59,order_top4_aisle 28,0.3583473584372667
+148,order_top4_aisle 117,0.3251713206875622
+72,order_top4_aisle 41,0.3111725128814255
+34,order_top4_aisle 3,0.29797482342341414
+85,order_top4_aisle 54,0.289661656290479
+15,order_4_organic_count,0.26851965389181603
+136,order_top4_aisle 105,0.267451228239242
+127,order_top4_aisle 96,0.26726677359029105
+146,order_top4_aisle 115,0.24787751012708398
+76,order_top4_aisle 45,0.24093192332348803
+151,order_top4_aisle 120,0.22851932716136136
+69,order_top4_aisle 38,0.2240371582135046
+4,order_2_hour_of_day,0.2149151081561715
+169,organic_std,0.20142833519852565
+22,order_3_second_pick,0.18034292041529806
+17,order_2_first_pick,0.17428494814232284
+31,favorite_item_order_num,0.17412763405306267
+18,order_3_first_pick,0.173892244049992
+160,order_top4_aisle 129,0.16974773097211487
+88,order_top4_aisle 57,0.1479269144756793
+26,order_3_num_of_prod,0.1365238640755564
+3,order_2_dow,0.13553950173057489
+171,num_of_prod_std,0.1349565090956333
+170,num_of_prod_mean,0.13319728793521105
+54,order_top4_aisle 23,0.1264791211788976
+25,order_2_num_of_prod,0.11036849439948762
+58,order_top4_aisle 27,0.10557700302990215
+21,order_2_second_pick,0.10402018387960371
+123,order_top4_aisle 92,0.10157746098632048
+112,order_top4_aisle 81,0.09539516504947991
+163,order_top4_aisle 132,0.08688450936924097
+147,order_top4_aisle 116,0.07405298160884288
+36,order_top4_aisle 5,0.07121591956958685
+162,order_top4_aisle 131,0.06981519937158692
+35,order_top4_aisle 4,0.06973839917634896
+24,order_1_num_of_prod,0.06719670261155282
+93,order_top4_aisle 62,0.06680992108383897
+129,order_top4_aisle 98,0.062444576247267417
+108,order_top4_aisle 77,0.059804929435917434
+23,order_4_second_pick,0.05701219855909303
+19,order_4_first_pick,0.05320394170853555
+63,order_top4_aisle 32,0.05248519486173534
+13,order_2_organic_count,0.05091465993681219
+47,order_top4_aisle 16,0.047881286159233157
+37,order_top4_aisle 6,0.0455445415235557
+6,order_3_dow,0.0428497606109273
+117,order_top4_aisle 86,0.03939481951137359
+120,order_top4_aisle 89,0.039158130818455476
+12,order_1_organic_count,0.03628029540521753
+124,order_top4_aisle 93,0.0351694408386407
+105,order_top4_aisle 74,0.03482047144053617
+1,order_1_dow,0.03424714249409629
+152,order_top4_aisle 121,0.02981629791813121
+165,order_top4_aisle 134,0.02941334312160126
+106,order_top4_aisle 75,0.024499328864526344
+157,order_top4_aisle 126,0.02324163875483255
+51,order_top4_aisle 20,0.021020344362229746
+116,order_top4_aisle 85,0.016918228486917274
+9,order_4_dow,0.011518187573183562
+142,order_top4_aisle 111,0.0
+33,order_top4_aisle 2,0.0
+164,order_top4_aisle 133,0.0
+161,order_top4_aisle 130,0.0
+16,order_1_first_pick,0.0
+121,order_top4_aisle 90,0.0
+159,order_top4_aisle 128,0.0
+158,order_top4_aisle 127,0.0
+155,order_top4_aisle 124,0.0
+154,order_top4_aisle 123,0.0
+153,order_top4_aisle 122,0.0
+20,order_1_second_pick,0.0
+125,order_top4_aisle 94,0.0
+126,order_top4_aisle 95,0.0
+128,order_top4_aisle 97,0.0
+119,order_top4_aisle 88,0.0
+150,order_top4_aisle 119,0.0
+130,order_top4_aisle 99,0.0
+32,order_top4_aisle 1,0.0
+132,order_top4_aisle 101,0.0
+133,order_top4_aisle 102,0.0
+134,order_top4_aisle 103,0.0
+149,order_top4_aisle 118,0.0
+145,order_top4_aisle 114,0.0
+144,order_top4_aisle 113,0.0
+137,order_top4_aisle 106,0.0
+138,order_top4_aisle 107,0.0
+139,order_top4_aisle 108,0.0
+140,order_top4_aisle 109,0.0
+141,order_top4_aisle 110,0.0
+143,order_top4_aisle 112,0.0
+111,order_top4_aisle 80,0.0
+118,order_top4_aisle 87,0.0
+81,order_top4_aisle 50,0.0
+79,order_top4_aisle 48,0.0
+78,order_top4_aisle 47,0.0
+77,order_top4_aisle 46,0.0
+43,order_top4_aisle 12,0.0
+75,order_top4_aisle 44,0.0
+74,order_top4_aisle 43,0.0
+73,order_top4_aisle 42,0.0
+44,order_top4_aisle 13,0.0
+71,order_top4_aisle 40,0.0
+70,order_top4_aisle 39,0.0
+45,order_top4_aisle 14,0.0
+46,order_top4_aisle 15,0.0
+67,order_top4_aisle 36,0.0
+66,order_top4_aisle 35,0.0
+65,order_top4_aisle 34,0.0
+64,order_top4_aisle 33,0.0
+62,order_top4_aisle 31,0.0
+61,order_top4_aisle 30,0.0
+60,order_top4_aisle 29,0.0
+57,order_top4_aisle 26,0.0
+56,order_top4_aisle 25,0.0
+50,order_top4_aisle 19,0.0
+53,order_top4_aisle 22,0.0
+80,order_top4_aisle 49,0.0
+82,order_top4_aisle 51,0.0
+113,order_top4_aisle 82,0.0
+83,order_top4_aisle 52,0.0
+52,order_top4_aisle 21,0.0
+38,order_top4_aisle 7,0.0
+109,order_top4_aisle 78,0.0
+107,order_top4_aisle 76,0.0
+104,order_top4_aisle 73,0.0
+103,order_top4_aisle 72,0.0
+102,order_top4_aisle 71,0.0
+101,order_top4_aisle 70,0.0
+39,order_top4_aisle 8,0.0
+99,order_top4_aisle 68,0.0
+98,order_top4_aisle 67,0.0
+97,order_top4_aisle 66,0.0
+96,order_top4_aisle 65,0.0
+95,order_top4_aisle 64,0.0
+94,order_top4_aisle 63,0.0
+92,order_top4_aisle 61,0.0
+91,order_top4_aisle 60,0.0
+90,order_top4_aisle 59,0.0
+89,order_top4_aisle 58,0.0
+40,order_top4_aisle 9,0.0
+87,order_top4_aisle 56,0.0
+41,order_top4_aisle 10,0.0
+42,order_top4_aisle 11,0.0
+86,order_top4_aisle 55,0.0
